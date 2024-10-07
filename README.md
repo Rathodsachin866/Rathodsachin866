@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at SRTM Univercity
 - 💞️ I’m looking to collaborate on software related programs and hackthons
 - 📫 How to reach me Send mail : sr5631080@gmail.com/9356796654
-- 😄 Pronouns: Sachinr
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Enjoy journey of life with some fun and madness 
 
 <!---
