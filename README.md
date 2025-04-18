@@ -1,21 +1,31 @@
-👋 Hi, I'm Sachin Rathod!
+🎩 𝙎𝙖𝙘𝙝𝙞𝙣 𝙍𝙖𝙩𝙝𝙤𝙙  
+*Building the future, one commit at a time...*
 
-🚀 About Me
+👨‍💻 Who Am I?
+A software development enthusiast with a passion for DevOps,
+currently coding and learning at SRTM University.
+I believe in clean code, smart solutions, and a little fun along the way.
 
-👀 Passionate about Software Development & DevOps
+🌍 Digital Footprint
+🧠 Obsessed with learning & tinkering
 
-🌱 Currently learning at SRTM University
+🛠️ Collaborator in hackathons and tech fests
 
-💡 Always open to collaborating on software projects & hackathons
+🔧 Breaking and fixing code (in that order)
 
-😄 Pronouns: He/Him
+🧭 Quick Facts
 
-⚡ Fun fact: Enjoying the journey of life with some fun and madness!
+🧩	I love solving problems with code
+🚀	Passionate about DevOps & automation tools
+📚	Always learning, always curious
+🎉	Believe in fun, teamwork, and good vibes
+🤝 Let’s Create Something Together
+📬 Email: sr5631080@gmail.com
 
-📫 Let's Connect
-
-📩 Email: sr5631080@gmail.com
-
-📞 Phone: +91 9356796654
+📱 Phone: +91 9356796654
 
 🔗 LinkedIn | GitHub
+
+🪄 Motto
+“Code. Collaborate. Celebrate.”
+
